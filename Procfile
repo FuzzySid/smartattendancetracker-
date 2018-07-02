@@ -1,1 +1,1 @@
-web: hellonode.js
+web: node hellonode.js
